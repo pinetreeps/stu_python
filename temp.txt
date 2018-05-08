@@ -1,0 +1,32 @@
+
+<!DOCTYPE html><html><head> <meta name='viewport' content='width=device-width' /><meta charset='UTF-8'><meta name='renderer' content='webkit'> <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><style>html {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset,legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details,figcaption, figure, footer, header, hgroup, menu, nav, section {margin: 0;padding: 0;}article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}audio, canvas, video {display: inline-block;*display: inline;*zoom: 1;}body, button, input, select, textarea {font-family: Arial,'Microsoft YaHei','\5B8B\4F53',arial,tahoma,sans-serif;}iframe {display: block;}abbr, acronym {border: 0; font-variant: normal;}del {text-decoration: line-through;}address, caption, cite, code, dfn, em, th, var {font-style: normal;font-weight: 500;}ol, ul {list-style: none;}caption, th {text-align: left;}h1, h2, h3, h4, h5, h6 {font-size: 100%;font-weight: 500;}body { background-color: #e9eef1;font-size: 14px;line-height: 1;}.fix {*zoom: 1;}.fix:after {display: block;content: 'clear';height: 0;clear: both;overflow: hidden;visibility: hidden;}.autobots-newjoin-wrapper {width: 1024px;margin: 0 auto;margin-bottom: 48px;padding: 0px 20px 36px 20px;background-color: #fff;}.regester-model { padding-bottom: 18px;}.notice-employed {padding: 40px 150px 20px;}.main-notice .main-notice-title {text-align: center;font-size: 24px;line-height: 1;padding: 16px 0;}.underline {text-decoration: underline;}.last-text {float: right;padding-top: 30px;text-align: center; } .main-notice {font-size: 14px;line-height: 30px; color: #333;}.main-notice .main-notice-title {text-align: center;font-size: 24px;line-height: 1; padding: 16px 0;}.main-notice .recipients {text-align: left;}.main-notice .base-p {text-indent: 2em;}</style></head><body><!-- 入职管理 star --><div class='autobots-newjoin-wrapper' style=' margin-bottom:0px'><!-- 入职信息登记 star  --><div class='join-register-wrapper'><div class='notice-employed'>
+                ?          <div class="main-notice fix">
+            <h3 class="main-notice-title">录用通知书</h3>
+            <p class="recipients"><b>庞松</b> 先生：</p>
+            <p class="base-p"> 您好！我们很高兴的通知您，您已经被我公司录用。您将会在汽车之家 <u class="underline"><b>技术小组</b></u> 部门担任 <u class="underline"><b>高级运营专员</b></u> 一职。</p>
+            <p class="base-p">请您于<b><u class="underline"> 2017年09月04日 </u><span style="color:red">上午9:15准时</span></b>到我公司办理入职手续。超过10点到达，当天不能办理入职，入职日期自动延迟到下一个入职日。</p>
+            <p class="base-p">公司地址：<u class="underline"> 北京市海淀区丹棱街3号中国电子大厦B座10层</u></p>
+            <p class="base-p">公司实行的是标准工时制，正常的工作时间为<u class="underline"><b>09:00-18:00</b></u>。</p>
+            <p class="base-p">我们将与您签订<u class="underline"><b> 3 </b></u>年的劳动合同和相关的保密协议，其中前<u class="underline"><b> 6个月 </b></u> 为试用期，您的每月税前薪资为 <u class="underline"><b>￥15000 </b></u>元，试用期期间您的每月税前薪资为<u class="underline"><b>￥15000 </b></u>元。工作期间我们将按照国家相关规定为您缴纳各项社会保险及住房公积金（在您上家单位已做完减员的情况下，公司将从<u class="underline"><b>9 月</b></u>开始为您缴纳），并按公司规定为您投保各项附加保险。</p>
+            <p class="base-p">我们将委托专业的背景调查机构，核实您面试时提供的个人相关信息（包含但不限于工作时间、公司、职位、薪酬、工作表现）是否符实。如果背景调查出现信息不符，我们会邮件通知。自通知之日起，此录用通知自动作废。</p>
+            <p class="base-p">办理入职手续时，请您务必带齐以下材料：</p>
+            <p class="base-p-left">
+              1. 原单位离职证明<b>原件</b>：由最近工作单位开具，要求写明是否解除劳动关系，有无劳动纠纷，并加盖公章或人事章；<br>
+              2. 身份证<b>原件及复印件</b>；<br>
+              3. 学历、学位和相关证书的<b>原件及复印件</b>；<br>
+              4. 招商银行储蓄卡一张（员工本人名字开户的储蓄卡）；<br>
+              5. 电子版两寸白底免冠照片（用于制作工卡）；<br>
+              6. 体检证明：请您到公司指定的体检机构参加体检，或提供6个月之内的体检证明（电子版）。
+            </p>
+            <p class="recipients"><b>注意：</b></p>
+            <p class="base-p-left"><b>1. 如您与之前雇主签订了保密协议、竞业禁止协议，请入职前书面告知我们。<br>
+                2. 公司会在入职当天和您签订劳动合同，如果您的材料准备不齐，我们将推迟签订劳动合同，延迟入职日期。 <br> 
+				3. 如您未在2017年09月04日正常办理入职，该录取通知书（全部条款内容）自动失效。 </b></p>
+            <p class="base-p">如有任何疑问请您与公司总部人力资源部招聘负责人：<b>孙长远 ( 010-59746299 ) </b>或当地区域主管联系。</p>
+            <p class="last-text">
+              汽车之家人力资源部<br>2017年08月22日
+            </p>
+          </div>
+
+     
+            </div></div></div></body></html>
